@@ -21,6 +21,7 @@ I made a library application where you can choose your data format : CSV, SERIAL
 * 7 - ADD READER
 * 8 - SHOW READERS
 * 9 - SEARCH PUBLICATION
+
 This is application which works in IntelliJ IDEA console. You can add your books, magazines and reader and after adding it they're saving in Library.csv file in our project.
 After it you can show or delete your saved data.
 
