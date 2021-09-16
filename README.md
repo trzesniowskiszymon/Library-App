@@ -10,7 +10,7 @@ Library application in console using only Java language.
 
 ### Introduction
 Hello! 
-I made a library application where you can choose your data format : CSV, SERIAL. After choosing format you have a lot of options like:
+I made a library application where you can choose your data format : CSV, SERIAL. After choosing a format you have a lot of options like:
 * 0 - EXIT
 * 1 - ADD NEW BOOK
 * 2 - ADD NEW MAGAZINE
@@ -22,8 +22,8 @@ I made a library application where you can choose your data format : CSV, SERIAL
 * 8 - SHOW READERS
 * 9 - SEARCH PUBLICATION
 
-This is application which works in IntelliJ IDEA console. You can add your books, magazines and reader and after adding it they're saving in Library.csv file in our project.
-After it you can show or delete your saved data.
+This is an application which works in IntelliJ IDEA console. You can add your books, magazines and readers and after adding it data is saved in Library.csv file in our project.
+After that you can show or delete your saved data.
 
 ### Technologies
 Project is created with:
